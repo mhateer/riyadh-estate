@@ -43,8 +43,8 @@ function PropertyPage() {
                 <span>{post.user.username}</span>
               </div>
             </div>
-            <div className="bottom" dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize[post.postDetail.desc] }}>
-            </div>
+            <div className="bottom" dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(post.postDetail.desc) }}>
+           </div>
           </div>
         </div>
       </div>
