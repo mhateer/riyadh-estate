@@ -10,7 +10,7 @@ If you want to hire me or you have a FYP - Final Year Project. I can help you to
 
 ![1726071471221](image/README/1726071471221.png)
 
-#### Search Results / Property Lost Page with Map Location
+#### Search Results / Property Lost Page with Map Location Lattitude/Longitude
 
 ![1726071487867](image/README/1726071487867.png)
 
